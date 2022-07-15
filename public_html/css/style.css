@@ -128,7 +128,7 @@ border-radius: 5px 5px 5px 5px;
 #content2 img.smaller{width:30%; margin-left:2em;}
 #content2 img.gallery{width:600; height:400; margin-left:20%;}
 #content2 p {text-align:left; }
- 
+#content p {font-face: "calibri, Georgia, sans-serif"}
 
 #banner{width:72%; background-color:#FFFFE0; margin-left:12%; padding:0% 7% 0% 0%;
  }
